@@ -1,0 +1,19 @@
+--- 
+title: "Experimental Design and Statistical Methods for the Biological Sciences"
+author: "Justin Post & Matthew Avery"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a book that we should write."
+---
+
+# Reasons
+
+- Base it off the course notes, which are already in latex
+- Get a TA or someone to work on problem sets/solutions
+- I'll help!
+
+Let's go!!
